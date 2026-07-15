@@ -24,6 +24,6 @@ Code Alpha - Python Programming Internship - Task 1: Hangman game
    * **Defeat-** Running out of attempts reveals the secret word and terminates.
 
 ## **How to Run**
-1. Copy the code from "hangman.py".
+1. Copy the code from "hangman game.py".
 2. Paste it into any Python 3 environment (like OnlineGDB, VS Code, or Google Colab).
 3. Hit **Run** and attempt to crack the secret word!
